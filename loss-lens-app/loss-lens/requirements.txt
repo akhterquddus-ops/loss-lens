@@ -1,8 +1,0 @@
-pandas
-numpy
-duckdb
-streamlit>=1.50
-sqlglot
-plotly
-python-dotenv
-requests
